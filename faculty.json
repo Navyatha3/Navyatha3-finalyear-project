@@ -1,0 +1,13 @@
+{
+  "departments": [
+    {
+      "name": "Computer Science and Engineering",
+      "code": "CSE",
+      "hod": {
+        "name": "Dr. M V S S Nagendranadh",
+        "email": "hodcse@sasi.ac.in",
+        "office": "Department of CSE, Sasi Institute of Technology & Engineering, Tadepalligudem"
+      }
+    }
+  ]
+}
